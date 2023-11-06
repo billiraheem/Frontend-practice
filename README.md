@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @billiraheem
-- 👀 I’m interested in data science, machine learning, AI and quantum mechanics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science and machine learning projects
+- 👋 Hi, I’m Balikis
+- 👀 I’m interested in game development, software engineering, AI and quantum mechanics
+- 🌱 I’m currently learning game development and web development
+- 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me abdulraheempelumi@gmail.com
 
 <!---
