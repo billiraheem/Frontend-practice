@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balikis
-- 👀 I’m interested in game development, software engineering, AI and quantum mechanics
+- 👀 I’m interested in game development, software development and AI
 - 🌱 I’m currently learning game development and web development
 - 💞️ I’m looking to collaborate on game development projects
 - 📫 How to reach me abdulraheempelumi@gmail.com
